@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-yemeksepeti/static/css/main.28012a1e.css",
+    "main.js": "/project-yemeksepeti/static/js/main.85631e63.js",
+    "static/media/home-yemeksepeti-apps.png": "/project-yemeksepeti/static/media/home-yemeksepeti-apps.5b0e12cba671d3b42e8b.png",
+    "static/media/hero-home-tr.jpg": "/project-yemeksepeti/static/media/hero-home-tr.6a22d66fbd4f1b0734b4.jpg",
+    "static/media/home-vendor-tr.jpg": "/project-yemeksepeti/static/media/home-vendor-tr.73f02cd038f7d8b21944.jpg",
+    "static/media/city-tile-ankara.jpg": "/project-yemeksepeti/static/media/city-tile-ankara.d062e1b2288adffcf2c7.jpg",
+    "static/media/city-tile-antalya.jpg": "/project-yemeksepeti/static/media/city-tile-antalya.768bab9968fb342b9949.jpg",
+    "static/media/city-tile-istanbul.jpg": "/project-yemeksepeti/static/media/city-tile-istanbul.55769f6114f30baee6c2.jpg",
+    "static/media/city-tile-bursa.jpg": "/project-yemeksepeti/static/media/city-tile-bursa.e733339097e18a7f6ab8.jpg",
+    "static/media/city-tile-izmir.jpg": "/project-yemeksepeti/static/media/city-tile-izmir.be387d0212686872a026.jpg",
+    "index.html": "/project-yemeksepeti/index.html",
+    "main.28012a1e.css.map": "/project-yemeksepeti/static/css/main.28012a1e.css.map",
+    "main.85631e63.js.map": "/project-yemeksepeti/static/js/main.85631e63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28012a1e.css",
+    "static/js/main.85631e63.js"
+  ]
+}
